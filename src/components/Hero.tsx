@@ -34,7 +34,7 @@ export default function Hero() {
           <div className="relative lg:h-[550px]">
             <div className="absolute inset-0 bg-gradient-to-tr from-amber-400/20 to-orange-300/20 rounded-3xl transform -rotate-2"></div>
             <img
-              src="https://images.pexels.com/photos/3535382/pexels-photo-3535382.jpeg?auto=compress&cs=tinysrgb&w=1200"
+              src="https://images.stockcake.com/public/7/9/d/79d3e657-4137-4b19-865c-a4569791cd6d_medium/cows-in-meadow-stockcake.jpg"
               alt="Indian Cow Care"
               className="relative rounded-3xl shadow-2xl object-cover w-full h-full"
             />

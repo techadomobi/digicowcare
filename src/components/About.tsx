@@ -66,22 +66,22 @@ export default function About() {
           <div className="relative">
             <div className="grid grid-cols-2 gap-4">
               <img
-                src="https://images.pexels.com/photos/3535323/pexels-photo-3535323.jpeg?auto=compress&cs=tinysrgb&w=800"
+                src="https://media.istockphoto.com/id/1168133648/photo/vet-injection-for-cow.jpg?s=612x612&w=0&k=20&c=SBonL4fyfmtooAQZ_-ZaFp_PMyWAepaluxXJ-Zgl4bg="
                 alt="Veterinary care for cattle"
                 className="rounded-3xl shadow-xl object-cover h-64 w-full"
               />
               <img
-                src="https://images.pexels.com/photos/3535382/pexels-photo-3535382.jpeg?auto=compress&cs=tinysrgb&w=800"
+                src="https://www.kisaantrade.com/public/uploads/all/lbPFaqgXQS5cWQt9adJO1P69531qgcY0YP6RfDJU.jpg"
                 alt="Premium cattle feed"
                 className="rounded-3xl shadow-xl object-cover h-64 w-full mt-8"
               />
               <img
-                src="https://images.pexels.com/photos/2114018/pexels-photo-2114018.jpeg?auto=compress&cs=tinysrgb&w=800"
+                src="https://content.jdmagicbox.com/v2/comp/chennai/p7/044pxx44.xx44.180307224544.d4p7/catalogue/kamdhenu-goushala-redhills-chennai-cow-care-centres-2PjFlEMwvN.jpg"
                 alt="Cow healthcare services"
                 className="rounded-3xl shadow-xl object-cover h-64 w-full -mt-8"
               />
               <img
-                src="https://images.pexels.com/photos/3573340/pexels-photo-3573340.jpeg?auto=compress&cs=tinysrgb&w=800"
+                src="https://kgkmindia.com/wp-content/uploads/2024/08/StryImg-1.jpg"
                 alt="Healthy Indian cattle"
                 className="rounded-3xl shadow-xl object-cover h-64 w-full"
               />

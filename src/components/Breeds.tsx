@@ -2,28 +2,28 @@ const breeds = [
   {
     name: 'Gir',
     origin: 'Gujarat',
-    image: 'https://images.pexels.com/photos/3535336/pexels-photo-3535336.jpeg?auto=compress&cs=tinysrgb&w=800',
+    image: 'https://girorganic.com/cdn/shop/articles/what-is-gir-cow-453725.jpg?v=1673547600',
     features: ['High milk yield (10-15 L)', 'Heat & disease resistant', 'Long lifespan'],
     milk: '10-15 L/day'
   },
   {
     name: 'Sahiwal',
     origin: 'Punjab',
-    image: 'https://images.pexels.com/photos/3573340/pexels-photo-3573340.jpeg?auto=compress&cs=tinysrgb&w=800',
+    image: 'https://media.newindianexpress.com/TNIE/import/2017/12/3/original/State_eyeggggs.jpg?w=1200&h=1200&auto=format%2Ccompress&fit=max&enlarge=true',
     features: ['Premium milk producer', 'Excellent feed conversion', 'Docile'],
     milk: '8-12 L/day'
   },
   {
     name: 'Red Sindhi',
     origin: 'Pakistan/Rajasthan',
-    image: 'https://images.pexels.com/photos/2114014/pexels-photo-2114014.jpeg?auto=compress&cs=tinysrgb&w=800',
+    image: 'https://cpimg.tistatic.com/6661303/b/4/dairy-farm-jersey-cow.jpg',
     features: ['Compact built', 'Heat tolerant', 'Disease resistant'],
     milk: '6-10 L/day'
   },
   {
     name: 'Rathi',
     origin: 'Rajasthan',
-    image: 'https://images.pexels.com/photos/460775/pexels-photo-460775.jpeg?auto=compress&cs=tinysrgb&w=800',
+    image: 'https://goelvetpharma.com/cdn/shop/files/27_medium.png?v=1754636380',
     features: ['Drought resilient', 'Efficient grazers', 'Hardy'],
     milk: '5-8 L/day'
   }
